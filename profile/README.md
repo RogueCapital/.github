@@ -37,7 +37,7 @@ If something goes rogue, we prefer it to fail loudly in CI rather than quietly i
 
 ## Projects
 
-### 🦀 rogue-trader
+### 🦀 rogue-trader - WIP - currently private. 
 Modular algorithmic trading system in Rust.
 
 Core components include:
