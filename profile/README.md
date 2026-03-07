@@ -52,6 +52,15 @@ Strategy theses, signal research, and architecture decisions. Everything Nick ne
 
 More projects may follow as experiments mature.
 
+
+### 🤖 rogue-agent — WIP — currently private
+
+A generic, minimal LLM agent framework in Rust. No proc macros, no actor
+runtime, no magic — just the loop, memory, and clean trait boundaries.
+Lives here because of the name, not the domain. Applicable to anything.
+
+Refuses to take orders from a framework. Bring your own tools, your own LLM backend, your own agenda. Just swap it in.
+
 ---
 
 ## Disclaimer
